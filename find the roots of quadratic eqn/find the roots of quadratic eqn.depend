@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602082179 source:c:\users\mfundo\downloads\cpp\find the roots of quadratic eqn\main.cpp
+	<iostream>
+	<cmath>
+
